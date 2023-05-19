@@ -25,6 +25,7 @@ tmp/
 *.pth
 *.pt
 !random4x4_samples/img_file_ratio_dict.pt
+!my_examples/*.pt
 
 
 *.sw[pon]
