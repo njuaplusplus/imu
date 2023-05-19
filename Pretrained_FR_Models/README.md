@@ -1,0 +1,1 @@
+This folder is downloaded using the google drive link in [TencentYoutuResearch/Adv-Makeup](https://github.com/TencentYoutuResearch/Adv-Makeup#pre-trained-models). According to [them](from://github.com/TencentYoutuResearch/Adv-Makeup/issues/17#issuecomment-1160102333), the models are pre-trained by others and collected by them.
