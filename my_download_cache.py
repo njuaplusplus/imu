@@ -22,10 +22,10 @@ ALL_CACHE = {
     # dlib landmark file
     'CACHE/shape_predictor_68_face_landmarks.dat': 'https://purdue0-my.sharepoint.com/:u:/g/personal/an93_purdue_edu/EVaJR2pE_eRGrY6SPsPcVhMBm368LSKX2nFfsjJ7lLHYtw?e=CVCgzg&download=1',
     # The following face models are downloaded from TencentYoutuResearch/Adv-Makeup
-    'Pretrained_FR_Models/facenet.pth': 'https://purdue0-my.sharepoint.com/:u:/g/personal/an93_purdue_edu/EToE-Xzi9u1Lkkm-W5a5cy0BFM5kxQW8xNviQpin96ChQA?e=MdG8m4?download=1',
-    'Pretrained_FR_Models/ir152.pth': 'https://purdue0-my.sharepoint.com/:u:/g/personal/an93_purdue_edu/ETPEvS9xz-BOir9YWN19RdwBUMIlmayI517MiDK4VZWZSg?e=w20lJK?download=1',
-    'Pretrained_FR_Models/irse50.pth': 'https://purdue0-my.sharepoint.com/:u:/g/personal/an93_purdue_edu/ES0LWEH3WklNkp6mSHQylLEBD-0UwSSrDlyYczVHnsjBzg?e=v6MNSf?download=1',
-    'Pretrained_FR_Models/mobile_face.pth': 'https://purdue0-my.sharepoint.com/:u:/g/personal/an93_purdue_edu/ER64FqKKpC1JuN0vHi-7-DUBsKF1mGhg_tIN3Aqi0lIHlQ?e=Hp3qH5?download=1',
+    'Pretrained_FR_Models/facenet.pth': 'https://purdue0-my.sharepoint.com/:u:/g/personal/an93_purdue_edu/EToE-Xzi9u1Lkkm-W5a5cy0BFM5kxQW8xNviQpin96ChQA?e=MdG8m4&download=1',
+    'Pretrained_FR_Models/ir152.pth': 'https://purdue0-my.sharepoint.com/:u:/g/personal/an93_purdue_edu/ETPEvS9xz-BOir9YWN19RdwBUMIlmayI517MiDK4VZWZSg?e=w20lJK&download=1',
+    'Pretrained_FR_Models/irse50.pth': 'https://purdue0-my.sharepoint.com/:u:/g/personal/an93_purdue_edu/ES0LWEH3WklNkp6mSHQylLEBD-0UwSSrDlyYczVHnsjBzg?e=v6MNSf&download=1',
+    'Pretrained_FR_Models/mobile_face.pth': 'https://purdue0-my.sharepoint.com/:u:/g/personal/an93_purdue_edu/ER64FqKKpC1JuN0vHi-7-DUBsKF1mGhg_tIN3Aqi0lIHlQ?e=Hp3qH5&download=1',
 }
 
 
